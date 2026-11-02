@@ -14,7 +14,7 @@ The program takes in the data from Strava every day (provided by the Strava API)
 
 - **Language:** Python, Bash, JSON
 - **Libraries:** pandas, requests, huggingface_hub, json
-- **External tools:** Strava API, HuggingFace API, Resend API, cron, curl, jq
+- **External tools:** Strava API, HuggingFace API, python-dotenv, Resend API, cron, curl, jq
 
 ## Setup
 
