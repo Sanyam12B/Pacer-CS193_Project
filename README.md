@@ -36,16 +36,16 @@ source venv/bin/activate
 Install the required dependencies
 
 ```bash
-pip install -r requirements.txt=
+pip install -r requirements.txt
 ```
 
 Create a .env file in the root directory and fill the following credentials
 
-STRAVA_CLIENT_ID=
-STRAVA_CLIENT_SECRET=
-STRAVA_ACCESS_TOKEN=
-STRAVA_REFRESH_TOKEN=
-HF_TOKEN=
+STRAVA_CLIENT_ID=<br>
+STRAVA_CLIENT_SECRET=<br>
+STRAVA_ACCESS_TOKEN=<br>
+STRAVA_REFRESH_TOKEN=<br>
+HF_TOKEN=<br>
 RESEND_API_KEY=
 
 ## Usage
